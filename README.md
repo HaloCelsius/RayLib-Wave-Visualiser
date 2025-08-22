@@ -9,6 +9,8 @@ The seccond part of this project was created purley to ensure what i was creatin
 ## Credits
 Code implimentation: Yours truly
 Insporation of this project was from @RonDen-DidIt's png header.
+
 https://docs.fileformat.com/audio/wav/ 
+
 https://en.wikipedia.org/wiki/WAV
 
